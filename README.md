@@ -1,2 +1,2 @@
-# machine_learning_data_visualization
-Learning to use python data science modules
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
